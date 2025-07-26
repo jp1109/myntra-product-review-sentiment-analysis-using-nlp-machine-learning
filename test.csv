@@ -1,0 +1,25 @@
+review,rating,Sentiment
+Premium look and feel,4,Positive
+"Awesome t-shirt, great fabric",4,Positive
+"Looks fine, fits okay",3,Neutral
+"Fantastic product, worth the price",4,Positive
+"Very bad fabric quality, looks cheap",1,Negative
+"Awesome t-shirt, great fabric",4,Positive
+"Fantastic product, worth the price",5,Positive
+Stylish and comfortable,4,Positive
+"Average product, not very impressive",3,Neutral
+"Okay for the price, nothing special",3,Neutral
+"Average design, basic quality",3,Neutral
+Okay product for casual wear,3,Neutral
+Completely disappointed,2,Negative
+"Average product, not very impressive",3,Neutral
+"Not bad, but not great",3,Neutral
+"Average design, basic quality",3,Neutral
+Stylish and comfortable,5,Positive
+"Very bad fabric quality, looks cheap",2,Negative
+Completely disappointed,1,Negative
+"Not bad, but not great",3,Neutral
+Loved the design and material,4,Positive
+"Value for money, not premium",3,Neutral
+Color faded after first wash,2,Negative
+Okay product for casual wear,3,Neutral
